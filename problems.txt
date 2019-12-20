@@ -1,0 +1,4 @@
+missed steps in the tutorial: 
+    code from section 5.11 - adding the table to app/views/articles/index.html.erb
+        produces an error saying that .each is accessing a nil object
+        not sure how to fix it and if i missed any steps in the tutorial that initializes @article in that file
